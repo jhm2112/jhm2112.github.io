@@ -32,7 +32,7 @@ github_username:  jhm2112
 theme: modernist
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+ # - jekyll-remote-theme
 
 
 # Exclude from processing.
