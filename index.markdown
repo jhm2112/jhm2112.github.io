@@ -10,5 +10,5 @@ layout: page
 # Welcome to my website. I'm a Computer Science student at the University of California San Diego. I'm currently looking for opportunities in the software industry. #
 
 
-# Link to my CV: [Click Here!](https://drive.google.com/file/d/1YWqOfrh85f9mtvXcXTNQEdGaivlpB9cx/view?usp=sharing)  #  
+# Link to my [CV!](https://drive.google.com/file/d/1YWqOfrh85f9mtvXcXTNQEdGaivlpB9cx/view?usp=sharing)  #  
 
