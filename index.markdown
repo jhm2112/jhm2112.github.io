@@ -8,7 +8,7 @@ layout: page
 <img align="left" width="250" height="215" src="/assets/profile.png">
 
 # Welcome to my website. I'm a Computer Science student at the University of California San Diego. I'm currently looking for opportunities in the software industry since my expected graduation date is December 2023. #
-
+{: style="text-align: justify"}
 ---
 <br /> 
   
