@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Website currently under construction.
+Website always under construction.
 
 This website uses the minima theme:
 [minima](https://github.com/jekyll/minima)
