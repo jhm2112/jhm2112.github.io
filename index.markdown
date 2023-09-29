@@ -15,6 +15,8 @@ layout: page
 
 # Link to my [CV!](https://drive.google.com/file/d/1YWqOfrh85f9mtvXcXTNQEdGaivlpB9cx/view?usp=sharing)  #  
 
+# Link to my [projects!](https://github.com/jhm2112?tab=repositories)  # 
+
 # **Contact** #  
 
 # The best way to contact me is by email: *reshiockme2112@gmail.com* #  
