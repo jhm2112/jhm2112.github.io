@@ -10,11 +10,12 @@ Welcome! This is where I update tech/work related information. If you'd like a q
 
 ## Short Bio
 
- B.S. degree in Computer Science from UC San Diego, from one of the top programs in the nation (ranked yearly in or near the top 10 of the USA). I developed solid technical and theoretical skills,using popular and widely used languages like C++, Java, JavaScript and SQL for projects and homeworks. My main interests in college were web development, databases and computer security. I’m fluent in both Spanish and English, learn new technologies and adapt to workflows quickly, and I consistently performed well in technical assessments during my time as an undergraduate.
+ B.S. degree in Computer Science from UC San Diego, from one of the top programs in the nation (ranked yearly in or near the top 10 of the USA). 
+ I developed solid technical and theoretical skills,using popular and widely used languages like C++, Java, JavaScript and SQL for projects and homeworks. My main interests in college were web development, databases and computer security. I’m fluent in both Spanish and English, learn new technologies and adapt to workflows quickly, and I consistently performed well in technical assessments during my time as an undergraduate.
 
 ## Latest Completed Project
 
- ### Custom Nintendo 3DS Modding & Streaming (Independent Project)
+### Custom Nintendo 3DS Modding & Streaming (Independent Project)
 
  *Personal project showcasing embedded system modding and FTP/NTR streaming setup.*
 ***Topics**: Homebrew modding, embedded system interfacing, and file system manipulation on legacy hardware.*
