@@ -175,17 +175,10 @@ details {
     padding-top: 1rem;  
 }
 
-
-summary {
-  display: block;
-  width: 100%;
-  box-sizing: border-box;
-}
-
 details, summary {
     max-width: 100%;
     overflow-wrap: break-word;
-    word-break:break-word
+    word-break:break-word;
 
 }
 
@@ -197,6 +190,9 @@ details > summary {
     cursor: pointer;
     font-size: 1.2rem;
     text-align: justify;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 details[open] > summary {
