@@ -175,6 +175,13 @@ details {
     padding-top: 1rem;  
 }
 
+
+summary {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
 details, summary {
     max-width: 100%;
     overflow-wrap: break-word;
