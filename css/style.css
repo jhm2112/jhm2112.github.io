@@ -172,13 +172,15 @@ li a {
 
   /* Details style*/
 details {
-    padding-top: 1rem;  
+    padding-top: 1rem;
 }
 
 details, summary {
     max-width: 100%;
     overflow-wrap: break-word;
     word-break:break-word;
+    width: 100%;
+    box-sizing: border-box;
 
 }
 
@@ -191,8 +193,6 @@ details > summary {
     font-size: 1.2rem;
     text-align: justify;
     display: block;
-    width: 100%;
-    box-sizing: border-box;
 }
 
 details[open] > summary {
