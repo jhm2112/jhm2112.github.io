@@ -173,6 +173,7 @@ li a {
   /* Details style*/
 details {
     padding-top: 1rem;
+    
 }
 
 details, summary {
@@ -181,7 +182,7 @@ details, summary {
     word-break:break-word;
     width: 100%;
     box-sizing: border-box;
-
+    
 }
 
 
@@ -201,6 +202,7 @@ details[open] > summary {
 
 article {
     font-size: 1.3rem;
+    
 }
 
 article > p:first-of-type {
@@ -265,6 +267,7 @@ body {
         width: auto;           
         max-width: 100%;        
     }
+
     #homeHead {
         margin-left:1rem;
         margin-right: 1rem ;
@@ -286,13 +289,11 @@ body {
     }
 
     picture {
-        display: block;
         width: 100%;
         text-align: center; 
     }
 
     picture > img {
-
         max-width: 100%;
         height: auto;
         display: block;
